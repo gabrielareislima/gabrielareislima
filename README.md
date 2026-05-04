@@ -1,5 +1,5 @@
 ## Olá!
-Muito prazer! Me chamo Gabriela Reis, sou de Belo Horizonte em Minas Gerais, tenho 27 anos, sou Médica Veterinária e atualmente estou em transição de carreira para a área da tecnologia cursando Análise e Desenvolvimento de Sistemas!
+Muito prazer! Me chamo Gabriela Reis, sou de Belo Horizonte em Minas Gerais, tenho 29 anos, sou Médica Veterinária e atualmente estou em transição de carreira para a área da tecnologia cursando Análise e Desenvolvimento de Sistemas!
 
 Espero poder contribuir e fazer troca de experiências com a comunidade.
 
